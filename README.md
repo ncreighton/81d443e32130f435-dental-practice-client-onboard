@@ -1,0 +1,2 @@
+# 81d443e32130f435-dental-practice-client-onboard
+Professional dental practice browser extension — without the professional price tag.  Works directly in Chrome, Edge, and Brave — no switching apps required. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Dental Practice Client Onboarding — fully configured and ready to use - One-click activat
